@@ -8,14 +8,14 @@
 
 # Starting Webserver 
 One webserver started will be served on localnet, all registered face will be viewed.
-![Web](https://github.com/muhk01/InsightFace-Face-Recognition/blob/master/2.png)
+![Web](https://github.com/muhk01/InsightFace-WebUI/blob/master/2.png)
 
 # Viewing inference Result 
-![Inference](https://github.com/muhk01/InsightFace-Face-Recognition/blob/master/1.png)
+![Inference](https://github.com/muhk01/InsightFace-WebUI/blob/master/1.png)
 
 # Adding Face and Training
 Upload face into database to do recognize.
-![AddFace](https://github.com/muhk01/InsightFace-Face-Recognition/blob/master/3.png)
+![AddFace](https://github.com/muhk01/InsightFace-WebUI/blob/master/3.png)
 
 ### Pretrained Models
 
